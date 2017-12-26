@@ -1,0 +1,7 @@
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\bin\Debug\Day2Advent2015.exe.config
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\bin\Debug\Day2Advent2015.exe
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\bin\Debug\Day2Advent2015.pdb
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\obj\Debug\Day3Advent2015.csprojResolveAssemblyReference.cache
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\obj\Debug\Day3Advent2015.csproj.CoreCompileInputs.cache
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\obj\Debug\Day2Advent2015.exe
+c:\users\xpd\source\repos\Day2Advent2015\Day2Advent2015\obj\Debug\Day2Advent2015.pdb

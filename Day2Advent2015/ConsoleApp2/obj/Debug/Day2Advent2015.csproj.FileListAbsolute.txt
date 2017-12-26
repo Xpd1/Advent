@@ -1,0 +1,7 @@
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Day2Advent2015.csprojResolveAssemblyReference.cache
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Day2Advent2015.csproj.CoreCompileInputs.cache
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+c:\users\xpd\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
